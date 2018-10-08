@@ -4,3 +4,4 @@ This is the first text file which is uploaded into the git.
 
 This is the second sentence :)
 2nd sentence entered
+3rd sentence is skipped. Because it is not there.

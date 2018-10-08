@@ -1,3 +1,5 @@
 Hi,
 
 This is the first text file which is uploaded into the git.
+
+This is the second sentence :)
